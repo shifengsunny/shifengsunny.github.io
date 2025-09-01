@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science & Engineering, Shanghai Jiao Tong University, 2016
+  * Supervisor: Prof. Dawu Gu
+  * Duration: 2011/09 - 2016/12
+* Ph.D in Computer Science & Engineering (Joint Ph.D Student), The University of Melbourne, 2016
+  * Supervisor: Prof. Udaya Parampalli
+  * Duration: 2015/04 - 2016/07
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021/09 - present: Associate Professor
+  * Shanghai Jiao Tong University, China
+  * School of Computer Science
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020/04 - 2021/09: Lecturer
+  * Monash University, Australia
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017/08 - 2020/03: Research Fellow
+  * Monash University, Australia
+
+* 2017/05 - 2017/08: Postdoc Fellow
+  * Hong Kong Polytechnic University, China
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Applied Cryptography
+* Encrypted Database
+* Privacy-Enhancing Technologies
 
 Publications
 ======
@@ -53,12 +51,20 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul> -->
+
+Academic Services
 ======
-* Currently signed in to 43 different slack teams
+* **Publication Chair**: ProvSec 2025, ASIACCS 2023, ACISP 2020, ISPEC 2019
+* **Program Committee**: ACM CCS 2025, ASIACRYPT 2023, ICICS 2023, NSS 2023, ProvSec 2023, ICISC 2019-2021, ACISP 2020
+* **External Reviewers**: CRYPTO 2018-2019, EUROCRYPT 2019, ASIACRYPT 2019-2022, TCC 2019, PKC 2019, IEEE TDSC, IEEE TIFS, IEEE TSC, etc.
+
+Awards & Honors
+======
+* IEEE TEMS TC Mid-Career Award, 2024
+* ACM China Council (Shanghai Chapter) Rising Star, 2023
+* Excellent Doctoral Dissertation Award, 2019
