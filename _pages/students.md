@@ -8,20 +8,20 @@ author_profile: true
 {% include base_path %}
 
 ### Current PhD Students
-- 2023: Yuanzhuo Yu, Nanjing University
-- 2023: Xiaowei Li, Shanghai Jiao Tong University (Co-supervised with Prof. Dawu Gu)
-- 2024: Xuan Chen, Melbourne University (Co-supervised with Prof. Joseph Liu and Dr. Shujie Cui)
-- 2024: Wentao Hu, Southeast University
-- 2025: Junzhe Dong, Xidian University
-- 2025: Jiechao Yang, Huazhong University of Science and Technology
+- Yuanzhuo Yu (PhD, 2023– , Nanjing University)
+- Xiaowei Li (PhD, 2023– , Shanghai Jiao Tong University; co-supervisor: Prof. Dawu Gu)
+- Xuan Chen (PhD, 2024– , University of Melbourne; co-supervisors: Prof. Joseph Liu, Dr. Shujie Cui)
+- Wentao Hu (PhD, 2024– , Southeast University)
+- Junzhe Dong (PhD, 2025– , Xidian University)
+- Jiechao Yang (PhD, 2025– , Huazhong University of Science and Technology)
 
 ### Current Master Students
-- 2023: Zhilong Luo, Wuhan University (Co-supervised with A/Prof. Zhedong Wang)
-- 2023: Lei Tian, Beihang University (Co-supervised with A/Prof. Yu Long)
-- 2024: Hao Li, Beihang University
-- 2024: Haoran Li, Harbin Institute of Technology
+- Zhilong Luo (Master, 2023– , Wuhan University; co-supervisor: A/Prof. Zhedong Wang)
+- Lei Tian (Master, 2023– , Beihang University; co-supervisor: A/Prof. Yu Long)
+- Hao Li (Master, 2024– , Beihang University)
+- Haoran Li (Master, 2024– , Harbin Institute of Technology)
 
 ### Alumni
-- 2019-2024: Yuncong Zhang, PhD (Co-supervised with Prof. Dawu Gu, now Research Associate Professor at Shangdong University)
-- 2017-2022: Yanxue Jia, PhD (Co-supervised with Prof. Dawu Gu, now Assistant Professor at Illinois Institute of Technology, USA)
-- 2015-2020: Cong Zuo, PhD (Co-supervised with Prof. Joseph Liu, now Full Professor at Beijing Institute of Technology)
+- Yuncong Zhang (PhD, 2019–2024; co-supervisor: Prof. Dawu Gu) – Research Associate Professor, Shandong University
+- Yanxue Jia (PhD, 2017–2022; co-supervisor: Prof. Dawu Gu) – Assistant Professor, Illinois Institute of Technology, USA
+- Cong Zuo (PhD, 2015–2020; co-supervisor: Prof. Joseph Liu) – Full Professor, Beijing Institute of Technology

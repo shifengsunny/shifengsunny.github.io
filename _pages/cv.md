@@ -45,12 +45,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+   -->
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -59,8 +59,8 @@ Talks
 
 Academic Services
 ======
-* **Publication Chair**: ProvSec 2025, ASIACCS 2023, ACISP 2020, ISPEC 2019
-* **Program Committee**: ACM CCS 2025, ASIACRYPT 2023, ICICS 2023, NSS 2023, ProvSec 2023, ICISC 2019-2021, ACISP 2020
+* **Publication Chair**: ProvSec 2024, ASIACCS 2023, ACISP 2020
+* **Program Committee**: USENIX Security 2026, ASIACCS 2026, ACM CCS 2025, Inscrypt 2025, ProvSec 2025, ASIACRYPT 2023, ASIACCS 2023, ICICS 2023, ISC 2021, ICISC 2019-2021, ACISP 2020
 * **External Reviewers**: CRYPTO 2018-2019, EUROCRYPT 2019, ASIACRYPT 2019-2022, TCC 2019, PKC 2019, IEEE TDSC, IEEE TIFS, IEEE TSC, etc.
 
 Awards & Honors
