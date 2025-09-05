@@ -19,7 +19,7 @@ redirect_from:
 
 ### Program Committee:
 
-* 2026: USENIX Security, ASIACCS
+* 2026: CCS, USENIX Security, ASIACCS
 * 2025: ACM CCS, Inscrypt, ProvSec
 <!-- * 2024 -->
 * 2023: ASIACRYPT, ASIACCS, ICICS
@@ -29,13 +29,12 @@ redirect_from:
 
 ## Editorial Service
 ---------------------
-### Editorial Boards
-* Editorial Board Member, ACM Transactions on Security and Privacy
-* Editorial Board Member, IACR Communications in Cryptology
-* Editorial Board Member, Journal of Surveillance, Security and Safety
-* Editorial Board Member, Frontiers of Big Data
-* Youth Editorial Board Member, Chinese Journal of Network and Information Security
-* Youth Editorial Board Member, Journal of Cybersecurity
+### Editorial editor / Associate Editor
+* ACM Transactions on Security and Privacy
+* IACR Communications in Cryptology
+* Journal of Surveillance, Security and Safety
+* Chinese Journal of Network and Information Security
+* Journal of Cybersecurity
 
 ### Guest Editor
 * Security and Communication Networks (Special Issue)
