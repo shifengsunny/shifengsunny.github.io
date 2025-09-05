@@ -11,7 +11,7 @@ I am an Associate Professor in the School of Computer Science at [Shanghai Jiao 
 
 My research interest centers on cryptography and data privacy, particularly on provably secure cryptosystems against physical attacks, privacy-preserving technology in cloud and blockchain.
 
-You can download my CV [here](files/CV_Shi-Feng Sun.pdf).
+You can download my CV [here](files/CV.pdf).
 
 ## 📢 Recent News
 - **2025.08** Joined the Program Committee of USENIX Security 2026
