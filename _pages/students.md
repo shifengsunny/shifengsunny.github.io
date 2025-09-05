@@ -10,7 +10,7 @@ author_profile: true
 ### Current PhD Students
 - Yuanzhuo Yu (PhD, 2023– , Nanjing University)
 - Xiaowei Li (PhD, 2023– , Shanghai Jiao Tong University; co-supervised with Prof. Dawu Gu)
-- Xuan Chen (PhD, 2024– , University of Melbourne; co-supervised with Prof. Joseph Liu and Dr. Shujie Cui)
+- Xuan Chen (PhD, 2024– , Monash University; co-supervised with Prof. Joseph Liu and Dr. Shujie Cui)
 - Wentao Hu (PhD, 2024– , Southeast University)
 - Junzhe Dong (PhD, 2025– , Xidian University)
 - Jiechao Yang (PhD, 2025– , Huazhong University of Science and Technology)
